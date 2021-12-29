@@ -1,0 +1,89 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     Book1
+Instances:    149
+Attributes:   22
+              Gender
+              Age
+              Marital Status
+              Education
+              Employment
+              All the tasks you have performed, are taking much more time than usual.
+              You are facing a lack of concentration.
+              You are feeling you have no future.
+              You are facing problems with making decisions
+              You feel, your life is sad, as there is no joy in your life anymore.
+              You have lost interest in all things that were important to you once upon a time.
+              You have been feeling guilty for everything you do.
+              You have been very irritated and angry recently
+              You have been feeling very fatigued
+              You are feeling that everything you have done has been a failure
+              You are having a lack of sleep
+              You are having suicidal thoughts
+              You have lost or gained weight without any diet programs.
+              You are having a loss of appetite.
+              You are having trust issues with everyone around you.
+              You are having trouble in all your relationships (home as well as professional)
+              Depression
+Test mode:    evaluate on training data
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+You have been very irritated and angry recently <= 3
+|   You are having trouble in all your relationships (home as well as professional) <= 3
+|   |   You are facing problems with making decisions <= 3: YES (81.0/2.0)
+|   |   You are facing problems with making decisions > 3
+|   |   |   All the tasks you have performed, are taking much more time than usual. <= 2: YES (3.0)
+|   |   |   All the tasks you have performed, are taking much more time than usual. > 2: NO (5.0)
+|   You are having trouble in all your relationships (home as well as professional) > 3
+|   |   You have been very irritated and angry recently <= 1: YES (2.0)
+|   |   You have been very irritated and angry recently > 1
+|   |   |   Gender = Female: NO (12.0)
+|   |   |   Gender = Male
+|   |   |   |   You have lost or gained weight without any diet programs. <= 2: YES (2.0)
+|   |   |   |   You have lost or gained weight without any diet programs. > 2: NO (3.0)
+You have been very irritated and angry recently > 3
+|   You are having a lack of sleep <= 1
+|   |   You are feeling you have no future. <= 4: YES (2.0)
+|   |   You are feeling you have no future. > 4: NO (3.0)
+|   You are having a lack of sleep > 1: NO (36.0)
+
+Number of Leaves  : 	10
+
+Size of the tree : 	19
+
+
+Time taken to build model: 0.01 seconds
+
+=== Evaluation on training set ===
+
+Time taken to test model on training data: 0 seconds
+
+=== Summary ===
+
+Correctly Classified Instances         147               98.6577 %
+Incorrectly Classified Instances         2                1.3423 %
+Kappa statistic                          0.9721
+Mean absolute error                      0.0262
+Root mean squared error                  0.1144
+Relative absolute error                  5.4119 %
+Root relative squared error             23.2687 %
+Total Number of Instances              149     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.033    0.978      1.000    0.989      0.972    0.985     0.980     YES
+                 0.967    0.000    1.000      0.967    0.983      0.972    0.985     0.981     NO
+Weighted Avg.    0.987    0.019    0.987      0.987    0.987      0.972    0.985     0.981     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 88  0 |  a = YES
+  2 59 |  b = NO
+
