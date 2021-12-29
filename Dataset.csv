@@ -1,0 +1,150 @@
+Gender,Age,Marital Status,Education,Employment,"All the tasks you have performed, are taking much more time than usual.",You are facing a lack of concentration.,You are feeling you have no future.,You are facing problems with making decisions,"You feel, your life is sad, as there is no joy in your life anymore.",You have lost interest in all things that were important to you once upon a time.,You have been feeling guilty for everything you do.,You have been very irritated and angry recently,You have been feeling very fatigued,You are feeling that everything you have done has been a failure,You are having a lack of sleep,You are having suicidal thoughts,You have lost or gained weight without any diet programs.,You are having a loss of appetite.,You are having trust issues with everyone around you.,You are having trouble in all your relationships (home as well as professional),Depression
+Female,24,Single,Masters,Student,3,1,2,3,4,1,1,1,2,2,1,3,2,2,1,1,YES
+Female,23,Single,Masters,Student,2,2,4,1,5,2,3,1,2,4,1,5,5,4,2,2,YES
+Female,21,Married,Undergraduate,Student,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,NO
+Female,24,Single,Undergraduate,Student,1,1,2,2,2,1,2,1,2,4,1,5,1,1,1,3,YES
+Female,19,Single,Undergraduate,Student,3,2,2,1,1,1,1,1,2,2,2,1,2,2,1,1,YES
+Female,19,Single,Undergraduate,Student,3,2,2,1,1,1,1,1,2,2,2,1,2,2,1,1,YES
+Female,25,Single,Masters,Student,3,3,1,1,1,5,3,3,3,3,2,1,4,3,3,3,YES
+Male,23,Single,Masters,Student,1,2,4,1,4,2,3,4,2,4,1,2,5,3,1,5,YES
+Female,25,Single,Undergraduate,Student,3,1,3,1,1,1,1,1,1,5,1,5,1,5,1,1,YES
+Female,24,Single,Masters,Student,1,1,5,3,5,5,5,2,4,5,5,5,5,5,1,4,NO
+Male,20,Single,Undergraduate,Student,2,1,4,2,3,1,3,2,3,3,3,5,2,1,1,1,YES
+Female,25,Single,Undergraduate,Student,1,1,1,1,1,1,1,1,1,1,2,1,3,3,1,2,YES
+Female,21,Single,Undergraduate,Student,1,1,1,1,2,1,1,1,3,1,1,5,1,5,1,1,YES
+Female,21,Single,Masters,Student,1,1,3,2,2,3,1,1,2,2,1,2,1,1,1,1,YES
+Female,40,Married,Masters,Full-time,2,3,5,4,5,4,5,5,4,5,2,5,2,5,5,5,NO
+Female,18,Single,Undergraduate,Student,1,3,4,1,2,1,4,1,3,4,1,5,4,2,1,1,YES
+Male,22,Single,Undergraduate,Student,4,4,1,1,4,2,5,5,4,5,3,5,5,5,5,5,NO
+Female,23,Single,Masters,Student,2,2,4,2,5,5,5,4,2,3,1,3,1,2,2,4,YES
+Male,19,Single,Undergraduate,Part-time,1,1,5,5,3,3,3,3,3,3,3,3,3,3,3,1,YES
+Female,21,Single,Undergraduate,Student,3,2,3,1,1,2,2,2,2,2,4,5,4,2,1,2,YES
+Male,18,Single,Undergraduate,Student,1,3,1,1,1,1,1,1,3,2,1,5,1,3,2,2,YES
+Male,22,Single,Undergraduate,Part-time,3,3,4,3,2,2,3,2,2,3,3,4,3,3,2,2,YES
+Male,24,Single,Masters,Student,2,2,3,2,3,2,4,4,1,2,5,5,5,5,2,4,NO
+Male,32,Single,Masters,Student,1,1,2,2,2,1,1,2,2,2,2,5,3,3,3,2,YES
+Female,24,Single,Masters,Student,3,2,3,1,2,2,1,2,2,2,3,5,5,3,2,2,YES
+Male,22,Single,Undergraduate,Part-time,3,2,3,2,2,2,4,2,2,3,2,3,2,2,1,2,YES
+Male,24,Single,Undergraduate,Full-time,2,1,1,2,4,2,2,1,3,5,2,5,3,3,3,1,YES
+Male,27,Single,Masters,Full-time,1,1,1,1,1,1,1,1,2,1,1,1,1,1,3,1,YES
+Male,30,Single,Undergraduate,Full-time,2,2,2,4,4,4,4,4,4,2,4,5,5,5,5,2,NO
+Female,26,Single,Undergraduate,Student,3,4,5,4,5,5,5,5,4,4,5,5,5,4,4,5,NO
+Male,23,Married,Undergraduate,Own Business,2,2,2,2,1,2,2,1,2,2,1,3,2,1,1,1,YES
+Female,25,Single,Undergraduate,Part-time,5,2,1,1,2,1,1,3,3,1,5,5,3,4,2,2,YES
+Male,22,Single,Undergraduate,Full-time,5,5,5,4,3,2,5,1,1,5,5,5,5,3,2,2,NO
+Male,25,Single,Masters,Student,1,2,2,2,3,3,3,1,2,1,2,2,2,2,1,1,YES
+Male,25,Married,High School,Own Business,1,1,3,5,5,5,5,4,3,3,3,5,3,4,1,5,NO
+Male,22,Single,Masters,Student,2,2,4,5,5,2,2,4,3,2,4,5,4,4,4,5,NO
+Female,26,Married,Masters,Student,1,2,5,5,5,4,5,4,3,5,1,5,5,4,1,4,NO
+Female,21,Single,College,Student,2,2,1,1,1,1,2,2,2,2,1,2,2,3,2,1,YES
+Female,20,Single,Undergraduate,Student,3,2,5,2,4,2,4,2,2,3,2,5,5,2,2,3,YES
+Male,27,Single,Undergraduate,Own Business,3,3,5,5,5,5,5,5,3,5,3,5,3,5,1,2,NO
+Male,21,Single,Undergraduate,Student,2,2,2,2,3,3,2,1,1,2,3,3,3,2,1,1,YES
+Female,20,Single,Undergraduate,Student,3,2,3,2,2,3,3,3,3,4,3,2,3,3,3,3,YES
+Female,22,Single,Undergraduate,Student,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,YES
+Female,22,Single,Graduate,Part-time,2,2,3,1,5,3,2,2,3,5,1,5,1,3,2,2,YES
+Male,22,Single,College,Student,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,YES
+Female,26,Married,Undergraduate,Housewife,3,4,5,3,5,1,2,1,3,4,1,2,1,2,2,3,YES
+Female,26,Married,Undergraduate,Housewife,3,4,5,3,5,1,2,1,3,4,1,2,1,2,2,3,YES
+Female,22,Single,Masters,Student,3,2,5,2,5,3,3,2,2,5,2,5,2,5,2,5,NO
+Female,27,Single,Masters,Student,3,2,5,2,2,2,4,1,1,2,3,5,4,2,4,3,YES
+Female,24,Single,Graduate,Freelancer,3,2,2,1,2,1,3,1,2,3,4,3,1,5,1,1,YES
+Female,22,Single,Undergraduate,Student,3,1,2,1,1,1,1,2,2,2,2,5,1,2,3,2,YES
+Female,22,Single,Undergraduate,Student,1,3,5,3,2,1,5,4,3,3,3,5,2,3,5,5,NO
+Female,21,Single,Masters,Student,2,1,1,2,1,1,4,1,1,1,4,1,1,2,4,2,YES
+Male,18,Single,College,Own Business,2,3,5,3,5,2,5,4,4,4,3,5,1,3,3,4,NO
+Female,21,Single,Masters,Student,3,2,3,3,2,1,3,1,3,2,3,3,4,4,1,3,YES
+Male,21,Single,Undergraduate,Student,3,2,4,4,5,5,4,4,2,4,2,5,4,3,5,4,NO
+Female,24,Single,Undergraduate,Student,2,4,5,5,5,4,5,5,4,5,5,5,2,5,2,2,NO
+Female,21,Single,Masters,Student,1,1,1,1,1,1,1,3,2,1,1,5,5,4,1,1,YES
+Female,23,Single,Undergraduate,Student,2,3,1,1,1,1,4,1,2,2,3,1,5,5,3,4,YES
+Male,23,Single,Masters,Student,3,2,5,5,4,5,2,1,2,3,5,3,3,5,2,3,NO
+Female,25,Married,College,Student,3,2,4,2,3,1,1,1,3,2,3,1,4,3,1,1,YES
+Female,26,Married,Masters,Student,3,2,1,2,3,1,2,1,1,2,2,5,3,3,1,1,YES
+Female,29,Married,Masters,House wife,3,3,2,1,1,3,5,5,5,5,5,5,5,3,1,1,NO
+Female,23,Single,Masters,Student,3,2,1,1,4,2,2,3,3,4,2,5,5,3,2,1,YES
+Female,24,Single,Undergraduate,Student,2,1,3,2,2,1,5,2,3,5,2,5,1,2,5,1,YES
+Male,26,Single,Masters,Full-time,2,3,4,5,5,4,5,3,4,5,2,5,3,3,3,5,NO
+Male,23,Single,Masters,Jobless,1,1,1,1,2,1,2,2,2,2,5,2,1,5,1,2,YES
+Male,18,Single,College,Own Business,2,3,5,3,5,2,5,4,4,4,3,5,1,3,3,4,NO
+Male,18,Single,College,Full-time,1,3,5,3,5,5,5,5,5,5,5,5,5,5,5,5,NO
+Female,49,Married,Masters,Part-time,2,3,5,5,1,4,2,2,2,3,3,2,4,2,5,2,YES
+Female,22,Single,Masters,Student,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,YES
+Male,27,Married,Masters,Full-time,2,2,2,2,4,2,2,2,2,2,2,4,4,4,2,2,YES
+Female,23,Married,Undergraduate,Own Business,2,5,2,3,2,3,3,3,2,2,2,2,1,1,3,1,YES
+Female,40,Married,Undergraduate,Student,2,5,5,2,5,2,5,5,2,5,1,5,1,5,2,2,NO
+Male,25,Single,Masters,Student,2,1,3,2,3,3,2,2,1,5,2,1,1,5,2,4,YES
+Female,22,Single,Undergraduate,Student,4,5,5,4,5,3,5,5,4,5,2,5,5,5,5,5,NO
+Female,70,Single,Masters,Retired,5,5,4,3,5,5,3,2,3,5,5,3,3,2,1,5,NO
+Male,24,Single,Masters,Student,2,1,2,2,5,4,2,1,2,2,1,2,3,3,3,1,YES
+Female,26,Single,Masters,Student,2,2,1,3,2,2,5,1,3,3,3,5,5,2,1,3,YES
+Male,27,Single,Undergraduate,Full-time,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,YES
+Male,18,Single,College,Student,3,3,2,2,3,2,3,2,4,5,4,5,5,3,3,5,NO
+Female,23,Single,College,Full-time,3,5,4,2,5,5,5,5,3,5,5,5,5,5,3,5,NO
+Male,30,Married,Graduate,Full-time,3,5,5,5,5,4,5,5,3,5,2,5,2,3,2,4,NO
+Female,23,Single,Masters,Student,3,4,5,3,5,3,5,5,2,2,5,5,5,3,2,2,NO
+Female,22,Single,Masters,Student,1,1,5,1,2,1,4,1,2,1,5,4,1,3,1,1,YES
+Female,22,Single,High School,Full-time,3,3,5,4,5,5,4,4,1,5,5,5,5,5,3,4,NO
+Female,28,Single,Masters,Part-time,1,1,3,2,2,4,3,1,2,3,2,4,1,2,1,3,YES
+Female,24,Single,Masters,Student,1,1,1,1,1,1,1,1,1,1,1,5,5,5,1,1,YES
+Female,32,Married,Masters,Part-time,4,5,5,5,5,5,5,5,4,5,2,5,5,5,4,5,NO
+Female,23,Single,Masters,Student,1,1,1,1,1,1,1,1,1,1,1,5,1,4,1,1,YES
+Female,24,Single,Masters,Full-time,2,1,4,2,4,2,4,2,1,4,5,5,2,5,3,4,NO
+Female,40,Single,Undergraduate,Full-time,3,3,3,3,3,3,3,5,5,5,5,5,5,5,5,5,NO
+Male,24,Single,Masters,Full-time,3,5,5,5,5,3,5,1,5,4,3,5,1,5,3,3,NO
+Female,25,Single,Masters,Full-time,3,4,3,3,4,4,5,5,5,5,3,5,4,4,2,4,NO
+Male,25,Single,Masters,Student,2,2,5,1,5,5,4,4,2,2,2,5,1,5,1,5,NO
+Male,23,Single,Masters,Full-time,4,2,4,3,4,2,3,3,4,5,2,5,3,3,5,2,NO
+Male,50,Married,Masters,Full-time,4,2,5,2,5,5,5,4,2,4,2,5,3,4,2,4,NO
+Male,26,Single,Undergraduate,Full-time,2,1,5,4,3,3,3,3,3,2,5,5,3,3,3,5,NO
+Male,18,Single,College,Student,2,1,1,1,1,1,1,1,1,1,1,1,2,2,2,1,YES
+Male,24,Single,Undergraduate,Freelancer,2,2,5,5,5,5,5,5,2,5,3,5,5,5,5,5,NO
+Female,23,Single,Masters,Student,3,3,5,1,4,2,2,1,1,4,3,3,1,1,1,2,YES
+Female,33,Married,Masters,At house,4,5,4,2,4,3,5,2,4,5,5,5,5,5,5,5,NO
+Male,23,Single,Undergraduate,Full-time,1,1,3,1,1,2,2,1,2,3,2,3,1,3,1,1,YES
+Female,28,Single,Masters,Full-time,5,4,2,4,4,5,5,3,4,5,5,5,5,5,5,5,NO
+Male,21,Seperated,Undergraduate,Own Business,2,1,1,2,3,1,2,3,2,2,1,2,1,4,2,1,YES
+Female,34,Single,Undergraduate,Looking for job,1,1,1,1,1,1,1,1,1,1,1,3,3,3,1,1,YES
+Female,23,Single,College,Full-time,5,5,5,4,5,3,3,5,3,5,5,5,1,3,5,5,NO
+Female,24,Single,Undergraduate,Student,3,4,5,3,5,3,3,2,1,4,2,5,3,1,5,5,NO
+Female,24,Single,High School,Full-time,3,3,4,3,5,5,4,5,1,4,5,5,1,5,4,5,NO
+Female,29,Single,Doctorate,Full-time,2,2,1,5,4,2,2,1,1,2,1,1,1,1,1,2,YES
+Female,23,Single,Undergraduate,Student,2,3,1,3,3,1,1,3,3,3,3,5,1,1,1,3,YES
+Male,31,Married,High School,Part-time,2,3,3,2,3,3,4,3,3,3,3,3,3,3,3,3,YES
+Female,30,Single,Masters,Part-time,2,2,5,2,2,1,5,1,2,5,5,5,3,2,2,5,YES
+Male,22,Single,Undergraduate,Part-time,2,3,1,3,2,4,4,1,3,2,1,1,5,3,2,2,YES
+Female,30,Single,Undergraduate,Full-time,2,5,5,2,5,5,5,4,2,5,1,5,5,4,4,2,NO
+Female,26,Single,Masters,Full-time,5,3,1,3,1,1,4,1,2,4,4,1,2,2,1,3,YES
+Female,45,Divorced,Masters,Special eductor,2,5,1,1,2,4,3,1,2,4,2,5,2,3,1,1,YES
+Female,21,Single,Undergraduate,Student,3,4,1,3,2,2,4,2,3,3,3,3,3,3,3,3,YES
+Female,22,Single,Undergraduate,Full-time,2,3,5,3,5,2,5,2,3,4,3,5,4,3,3,2,NO
+Female,23,Married,Masters,House wife,5,5,3,2,4,2,4,2,4,4,4,5,5,5,5,5,NO
+Female,26,Single,Undergraduate,Part-time,5,5,5,4,5,3,5,5,3,5,5,5,4,5,4,5,NO
+Female,22,Single,Masters,Student,3,1,2,1,1,1,5,2,4,2,1,2,1,2,1,1,YES
+Female,20,Single,Masters,Student,1,3,2,1,1,1,2,1,3,3,3,4,1,1,1,1,YES
+Female,22,Married,Graduate,House wife,2,3,4,4,5,2,5,2,3,5,5,5,2,4,5,5,NO
+Female,24,Married,Masters,Full-time,4,5,5,5,5,5,5,5,5,5,5,5,1,5,5,5,NO
+Male,24,Single,Undergraduate,Full-time,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,YES
+Female,24,Single,Undergraduate,Student,2,2,5,1,5,4,2,2,4,5,4,5,1,2,4,4,NO
+Female,22,Single,Undergraduate,Student,1,1,1,3,3,1,4,1,2,3,1,4,1,1,1,1,YES
+Female,24,Single,Undergraduate,Student,3,4,1,2,2,2,4,2,4,5,2,5,5,5,1,1,YES
+Female,24,Single,Undergraduate,Student,1,2,4,3,5,5,5,3,3,5,5,5,5,5,5,5,NO
+Male,45,Married,Masters,Own Business,1,1,2,3,4,3,3,3,2,4,2,5,2,4,3,4,YES
+Female,20,Single,Undergraduate,Student,3,2,5,2,3,2,5,5,4,5,5,5,4,4,2,2,NO
+Female,25,Married,Undergraduate,Freelancer,1,2,3,1,1,1,3,1,1,3,1,4,2,1,3,1,YES
+Female,20,Single,Undergraduate,Student,1,4,5,2,4,5,5,5,3,3,5,5,5,5,5,5,NO
+Female,22,Single,In MSc continue,Student,3,2,5,4,5,1,5,2,3,5,2,5,3,4,2,2,NO
+Female,20,Single,Masters,Student,1,3,2,1,1,1,2,1,3,3,3,4,1,1,1,1,YES
+Female,20,Single,Undergraduate,Student,1,4,1,1,1,1,4,1,2,1,1,5,3,2,1,1,YES
+Female,24,Single,Masters,Full-time,1,3,2,3,3,3,3,2,3,2,3,5,3,3,2,3,YES
+Female,22,Single,Undergraduate,Student,3,4,5,3,2,2,4,4,4,5,4,5,4,3,2,2,NO
+Male,20,Single,College,Freelancer,2,1,5,3,3,2,2,1,2,5,4,5,1,3,3,2,YES
+Male,24,Single,Undergraduate,Full-time,2,1,1,2,4,2,2,1,3,5,2,5,3,3,3,1,YES
+Female,46,Married,Masters,Head of the department,3,5,5,5,5,5,4,5,5,5,4,5,5,5,5,5,NO
+Female,20,Single,Masters,Student,1,3,2,1,1,1,2,1,3,3,3,4,1,1,1,1,YES
+Female,20,Single,Masters,Student,1,3,2,1,1,1,2,1,3,3,3,4,1,1,1,1,YES
+Female,18,Single,College,Student,5,2,4,5,4,1,2,2,3,4,5,5,5,5,2,2,NO
+Female,35,Married,Masters,Full-time,2,1,5,2,5,3,2,2,5,4,5,5,5,5,2,5,NO
+Female,26,Single,Undergraduate,Student,3,4,5,4,5,5,5,5,4,4,5,5,5,4,4,5,NO
+Male,31,Married,High School,Part-time,2,3,3,2,3,3,4,3,3,3,3,3,3,3,3,3,YES
+Male,24,Single,Undergraduate,Full-time,2,1,1,2,4,2,2,1,3,5,2,5,3,3,3,1,YES
