@@ -30,4 +30,4 @@
 
 
 ## 4. Plot Matrix
-![Figure.4](PlotMatrix.jpg)
+![Figure.4](PlotMatrix_New.jpg)
