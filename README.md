@@ -17,7 +17,7 @@ _Depression has been outlined as a psychological disorder characterized by sadne
 2. WEKA
 
 ## List Of Files
-1. [Read Me First](https://github.com/sdilawarasadzaidi/Predicting-Potential-Patient-of-Depression-using-Data-Mining/edit/main/README.md)
+1. [readme.md](https://github.com/sdilawarasadzaidi/Predicting-Potential-Patient-of-Depression-using-Data-Mining/edit/main/README.md)
 2. [Project Report](https://github.com/sdilawarasadzaidi/Predicting-Potential-Patient-of-Depression-using-Data-Mining/blob/main/Predicting%20Potential%20Patient%20of%20Depression%20using%20Data%20Mining%20-%20Final.pdf)
 3. [Visualization and Plot](https://github.com/sdilawarasadzaidi/Predicting-Potential-Patient-of-Depression-using-Data-Mining/blob/main/Viusalization-and-Plots.md)
 4. [WEKA Source File](https://github.com/sdilawarasadzaidi/Predicting-Potential-Patient-of-Depression-using-Data-Mining/blob/main/DepressionData.arff)
